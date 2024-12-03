@@ -1,0 +1,5 @@
+../Core/Src/7SEG.c:111:6:resetCountValue	4	static
+../Core/Src/7SEG.c:122:6:mode1Counter	8	static
+../Core/Src/7SEG.c:240:12:get7SEG1	4	static
+../Core/Src/7SEG.c:255:12:get7SEG2	4	static
+../Core/Src/7SEG.c:332:6:displayMode	8	static

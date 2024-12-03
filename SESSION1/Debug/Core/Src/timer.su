@@ -1,0 +1,9 @@
+../Core/Src/timer.c:30:6:setTimer0	16	static
+../Core/Src/timer.c:36:6:setTimer1	16	static
+../Core/Src/timer.c:41:6:setTimer2	16	static
+../Core/Src/timer.c:46:6:setTimer3	16	static
+../Core/Src/timer.c:51:6:timer_run	4	static
+../Core/Src/timer.c:72:5:get0flag	4	static
+../Core/Src/timer.c:75:5:get1flag	4	static
+../Core/Src/timer.c:78:5:get2flag	4	static
+../Core/Src/timer.c:81:5:get3flag	4	static

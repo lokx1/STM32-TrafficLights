@@ -1,0 +1,4 @@
+../Core/Src/input_process.c:13:6:ModeBuffer	8	static
+../Core/Src/input_process.c:35:13:increaseDraftValue	4	static
+../Core/Src/input_process.c:55:13:setDurationValue	16	static
+../Core/Src/input_process.c:83:6:Update	8	static
